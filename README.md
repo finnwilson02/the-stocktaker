@@ -1,24 +1,3 @@
-# robots_unemploying_people
-G3 Readme
-
-********
-Group Members
-
-Jack Mars 490414947
-
-Finn Panko-Jones 500468250
-
-Georgia Tovich 500488214
-
-Yupeng Wang 490015449
-
-Finn Wilson 500456925
-
-Qiuyu Meng 490052385
-
-
-********
-
 ## Introduction
 
 This project utilises the HCS12 Dragon board and the Pan and Tilt Unit (PTU) to create a proof-of-concept for a stock taking technology (the 'Stocktaker') which will assist to improve supermarket efficiency. The Stocktaker uses the dragon board to process LIDAR and magnometer readings collected from the PTU whilst also providing an opportunity for users to interface with the Stocktaker. The collected readings are then sent to a PC to be further processed and converted into visuals for a user. The Stocktaker also has an additional feature where it will play emergency noises if it is shaked abruptly which mimics someone trying to steal the HCS12.
